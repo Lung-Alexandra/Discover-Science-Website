@@ -2,4 +2,4 @@
 
 A simple Html, Css website. 
 
-The Website was published at https://lung-alexandra.github.io/proiect_tw_v1/
+The Website was published at https://lung-alexandra.github.io/Discover-Science-Website/ 
